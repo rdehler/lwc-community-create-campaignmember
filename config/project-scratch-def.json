@@ -1,0 +1,21 @@
+{
+  "orgName": "raydehler company",
+  "edition": "Partner Enterprise",
+  "features": ["Communities", "MarketingUser"],
+  "settings": {
+    "communitiesSettings": {
+        "enableNetworksEnabled": true
+    },
+    "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+    },
+    "securitySettings": {
+        "passwordPolicies": {
+            "enableSetPasswordInApi": true
+        }
+    },
+    "mobileSettings": {
+        "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
